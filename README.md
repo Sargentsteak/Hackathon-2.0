@@ -1,5 +1,4 @@
 # Unofficial-hackathon
-Add your files here as soon as they are updated and push it to github
 Its a basic dynamic website for a company.It has 3 components  : Manager, Lead, Resource.
 Manager has the access only to the core functionalities of the Resource and the task.
 
